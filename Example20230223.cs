@@ -1,5 +1,5 @@
 public static void Main()
 {
-    Console.WriteLine("Hello everybody!");
+    Console.WriteLine("The first Csharp program");
     
 }
